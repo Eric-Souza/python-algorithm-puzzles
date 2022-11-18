@@ -1,24 +1,3 @@
-
-Imagina-se que você é um dos programadores responsáveis pela construção de app de vendas para uma determinada empresa X que vende em atacado. Para calcular o valor total que o deve-se levar em consideração o custo de embalagem conforme a tabela abaixo  
-
-Custo de embalagem para frete 
-
-0 <= quantidade < 11 = $30.00 
-11 <= quantidade < 101 = $60.00 
-101 <= quantidade < 1001 = $120.00 
-quantidade >= 1001 = $240.00 
-
-Elabore um programa em Python que: 
-
-Entre com o valor unitário do produto; 
-Entre com a quantidade desse produto; 
-O programa deve retornar o valor total sem o custo de embalagem para frete; 
-O programa deve retornar o valor total após o custo de embalagem para frete; 
-Deve-se utilizar estruturas if, elif e else (EXIGÊNCIA 1 de 1); 
-Colocar um exemplo de SAIDA DE CONSOLE de compra de mais de 1000 und.  
-
-##################################################################################################
-
 print('Welcome to my store! \n')
 
 # Input product value
